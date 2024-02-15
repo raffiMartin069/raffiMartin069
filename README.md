@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Martinez</h1>
 <h3 align="center">An aspiring Full-Stack Developer from Philippines.</h3>
 
-- 🔭 I’m currently working on a Data Science Project [Chi-Square Test of Independence](https://github.com/raffiMartin069/Chi-Square-GUI)
-
 - 🌱 I’m currently learning **Django, Spring, HTML, CSS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raffiMartin069?tab=repositories](https://github.com/raffiMartin069?tab=repositories)
