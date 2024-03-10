@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Martinez</h1>
 <h3 align="center">An aspiring Full-Stack Developer from Philippines.</h3>
 
-- 🌱 I’m currently learning **Django, Spring, HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **Django, ASP.NET, HTML, CSS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raffiMartin069?tab=repositories](https://github.com/raffiMartin069?tab=repositories)
 
