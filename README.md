@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Martinez</h1>
 <h3 align="center">An aspiring Full-Stack Developer from Philippines.</h3>
 
-- 🌱 I’m currently working with my second **<a href="[https://www.w3schools.com](https://github.com/raffiMartin069/about-me)">Personal Portfolio</a>**.
+- 🌱 I’m currently working with my second **Personal Portfolio** using React and TypeScript JS.
 
 - 👨‍💻 All of my projects are available at [https://github.com/raffiMartin069?tab=repositories](https://github.com/raffiMartin069?tab=repositories)
 
