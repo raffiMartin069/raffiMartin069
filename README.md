@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+
 <h1 align="center">Hi 👋, I'm Rafael Martinez</h1>
 <h3 align="center">An aspiring Full-Stack Developer from Philippines.</h3>
 
@@ -14,4 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martinez-rafael/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martinez-rafael/" height="30" width="40" /></a>
 </p>
 
-
+<h3>My Tech Stack</h3>
+<ul>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></li>
+</ul>
