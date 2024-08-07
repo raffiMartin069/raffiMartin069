@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" height="80" width="80" />
 <div/>
 
-## Connect with me:
+## Connect with me at:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martinez-rafael/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martinez-rafael/" height="80" width="80" /></a>
 </p>
