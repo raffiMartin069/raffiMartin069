@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raffiMartin069?tab=repositories](https://github.com/raffiMartin069?tab=repositories)
 
-- 💬 Ask me about **Flask, Django and Android Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rafael.d.martinez@outlook.com**
 
