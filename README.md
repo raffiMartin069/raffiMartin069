@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <h1 align="center">Hi 👋, I'm Rafael Martinez</h1>
-<h3 align="center">An aspiring Full-Stack Developer from Philippines.</h3>
+<h3 align="center">An aspiring Software Engineer from Philippines.</h3>
 
 - 🤵My porfolio: [https://raffamartin.me/](https://raffamartin.me/)
 
