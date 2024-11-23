@@ -1,15 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h1 align="center">Hi 👋, I'm raffa</h1>
-<h3 align="center">A seasoned developer from Philippines.</h3>
+<h1 align="center">Welcome to my collections!</h1>
 
 - 🤵My porfolio: [https://raffamartin.me/](https://raffamartin.me/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/raffiMartin069?tab=repositories](https://github.com/raffiMartin069?tab=repositories)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **rafael.d.martinez@outlook.com**
 
 ## My Current Tech Stack
 <div id="stack" style="display: flex; align-items: center;">
